@@ -3,3 +3,6 @@ node_modules/
 .env
 dist/
 .superpowers/
+
+# Claude Code (settings locais podem conter segredos)
+.claude/
